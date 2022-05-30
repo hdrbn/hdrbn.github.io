@@ -17,7 +17,8 @@
 	top: 50%;
 	position: absolute;
 	transform: translateY(-50%);
-	color: #fff
+	padding-right: 10px;
+	color: #fff;
 }
 
 .content p{
